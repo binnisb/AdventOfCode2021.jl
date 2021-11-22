@@ -3,6 +3,11 @@
 julia_version = "1.7.0-beta3.0"
 manifest_format = "2.0"
 
+[[deps.AOC2021]]
+path = "src/AOC2021"
+uuid = "8074e4e6-93b1-4cb4-9423-4aa0b28e125c"
+version = "0.1.0"
+
 [[deps.ArgTools]]
 uuid = "0dad84c5-d112-42e6-8d28-ef12dabb789f"
 
